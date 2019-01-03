@@ -21,7 +21,7 @@ if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
     echo "Sorry, there was an error uploading your file.";
 }
 
-$html = file_get_html('http://test.local/uploads/TA.html');
+$html = file_get_html('http://'.$_SERVER['HTTP_HOST'].'/uploads/TA.html');
 
 ?>
     <p align="center">
@@ -61,7 +61,6 @@ foreach (get_tables($html) as $table) {
 ?>
     </p>
 <?php
-
 
 echo '</br><a href="/uploads/TAArot.html" download>Arotrade</a></br>';
 echo '<a href="/uploads/TAOpteck.html" download>Opteck</a></br>';

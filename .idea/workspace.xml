@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4635e915-5783-4096-94b8-5177c67e5df7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/private/private.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/pclzip/pclzip/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/pclzip/pclzip/gnu-lgpl.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/pclzip/pclzip/pclzip.lib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/pclzip/pclzip/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/.scrutinizer.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/.travis_shell_after_success.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/COPYING.LESSER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/VERSION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/phpmd.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Adapter/Zip/PclZipAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Adapter/Zip/ZipArchiveAdapter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Adapter/Zip/ZipInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Autoloader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Drawing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Microsoft/OLERead.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Microsoft/PasswordEncoder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/XMLReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/src/Common/XMLWriter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip/AbstractZipAdapterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip/PclZipAdapterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip/ZipArchiveAdapterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/AutoloaderTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/DrawingTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/FileTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/FontTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/Microsoft/PasswordEncoderTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/TextTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/XMLReaderTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/XMLWriterTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/_includes/TestHelperZip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/Common/Tests/_includes/XmlDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/resources/files/Sample_01_Simple.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/resources/files/reader.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/common/tests/resources/images/PHPPowerPointLogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/.php_cs.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/Api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/COPYING.LESSER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/api/simple_html_dom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/bootstrap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/phpword.ini.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/AbstractCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Bookmarks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Charts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Endnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Footnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Collection/Titles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/ComplexType/FootnoteProperties.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/ComplexType/ProofState.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/ComplexType/TblWidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/ComplexType/TrackChangesView.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/AbstractContainer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Bookmark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Cell.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/CheckBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Endnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Footnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/FormField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Line.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/ListItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/ListItemRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/OLEObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/PageBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/PreserveText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Row.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/SDT.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/TOC.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/TextBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/TextBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/TextRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Element/TrackChange.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Escaper/AbstractEscaper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Escaper/EscaperInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Escaper/RegExp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Escaper/Rtf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Escaper/Xml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/CopyFileException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/CreateTemporaryFileException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/Exception.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/InvalidImageException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/InvalidObjectException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/InvalidStyleException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Exception/UnsupportedImageTypeException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/IOFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Media.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Metadata/Compatibility.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Metadata/DocInfo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Metadata/Protection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Metadata/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/PhpWord.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/AbstractReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/HTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/MsDoc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/ODText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/ODText/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/ODText/Content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/ODText/Meta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/RTF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/RTF/Document.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/ReaderInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/DocPropsApp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/DocPropsCore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/DocPropsCustom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Document.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Endnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Footnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Numbering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007/Styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/AbstractEnum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/Converter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/Html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/OLERead.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/PCLZip/pclzip.lib.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Shared/ZipArchive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/DocProtect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/Jc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/JcTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/LineSpacingRule.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/NumberFormat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/TblWidth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/TextAlignment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/SimpleType/Zoom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/AbstractStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Border.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Cell.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Extrusion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Fill.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Frame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Indentation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Line.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/LineNumbering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/ListItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Numbering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/NumberingLevel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Outline.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Paper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Paragraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Row.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Shading.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Shadow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Spacing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/TOC.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/TablePosition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Style/TextBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/TemplateProcessor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/AbstractWriter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Bookmark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Endnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Footnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/ListItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/PageBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/TextBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/TextRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Element/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Part/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Part/Body.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Part/Head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Style/AbstractStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Style/Generic.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Style/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/HTML/Style/Paragraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/PageBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/TextBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/TextRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Element/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/Content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/Manifest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/Meta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/Mimetype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Part/Styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/AbstractStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Paragraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/PDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/PDF/AbstractRenderer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/PDF/DomPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/PDF/MPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/PDF/TCPDF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/ListItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/PageBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/TextBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/TextRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Part/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Part/Document.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Part/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/AbstractStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Border.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Indentation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Paragraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Style/Tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/AbstractElement.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Bookmark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/CheckBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Container.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Endnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Field.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Footnote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/FormField.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Line.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/ListItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/ListItemRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/OLEObject.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/PageBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/ParagraphAlignment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/PreserveText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/SDT.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/TOC.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/TableAlignment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/TextBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/TextBreak.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/TextRun.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Element/Title.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/AbstractPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Chart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/ContentTypes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsApp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsCore.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/DocPropsCustom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Document.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Endnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/FontTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Footnotes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Numbering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Rels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/RelsDocument.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/RelsPart.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/Theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Part/WebSettings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/AbstractStyle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Cell.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Extrusion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Fill.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Font.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Frame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Indentation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Line.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/LineNumbering.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/MarginBorder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Outline.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Paragraph.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Row.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Section.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Shading.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Shadow.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Spacing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Tab.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/Table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/TablePosition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/Word2007/Style/TextBox.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/Writer/WriterInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/doc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/ppt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/src/PhpWord/resources/xls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/test_doc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/uploads/TA.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/uploads/TAArot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/uploads/TAOpteck.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/uploads/Technical Analysis 27.12.2018.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/phpoffice/phpword/uploads/Technical Analysis 28.12.2018.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/src/Escaper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/src/Exception/ExceptionInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/src/Exception/InvalidArgumentException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/zendframework/zend-escaper/src/Exception/RuntimeException.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="60" column="2" lean-forward="true" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+              <folding>
+                <element signature="e#9#15#1" expanded="true" />
+                <element signature="e#3#9#1" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/vendor/phpoffice/phpword/upload.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpword" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/common" />
+      <path value="$PROJECT_DIR$/vendor/pclzip/pclzip" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="phpoffice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="vendor" type="462c0819:PsiDirectoryNode" />
+              <item name="phpoffice" type="462c0819:PsiDirectoryNode" />
+              <item name="phpword" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4635e915-5783-4096-94b8-5177c67e5df7" name="Default Changelist" comment="" />
+      <created>1546538460071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546538460071</updated>
+      <workItem from="1546538461200" duration="3816000" />
+      <workItem from="1546542503559" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4082000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167785" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/phpoffice/phpword/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="60" column="2" lean-forward="true" selection-start-line="60" selection-start-column="2" selection-end-line="60" selection-end-column="2" />
+          <folding>
+            <element signature="e#9#15#1" expanded="true" />
+            <element signature="e#3#9#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

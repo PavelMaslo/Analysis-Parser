@@ -3,7 +3,19 @@
 include_once('./api/simple_html_dom.php');
 header("Content-type: text/html; charset=UTF-8");
 echo '<html>
+<header>
 <meta http-equiv=\'Content-Type\' content=\'text/html; charset=windows-1251\'>
+<style>
+   body{
+    background-color: #3366CC; /* Цвет фона веб-страницы */
+   } 
+   h1 {
+    background-color: RGB(249, 201, 16); /* Цвет фона под заголовком */
+   }
+   p { 
+   }
+  </style>
+</header>
 <body>';
 require_once 'bootstrap.php';
 
@@ -21,7 +33,7 @@ if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
     echo "Sorry, there was an error uploading your file.";
 }
 
-$html = file_get_html('http://'.$_SERVER['HTTP_HOST'].'/uploads/TA.html');
+$html = file_get_html('http://test.local/uploads/TA.html');
 
 ?>
     <p align="center">
@@ -61,6 +73,7 @@ foreach (get_tables($html) as $table) {
 ?>
     </p>
 <?php
+
 
 echo '</br><a href="/uploads/TAArot.html" download>Arotrade</a></br>';
 echo '<a href="/uploads/TAOpteck.html" download>Opteck</a></br>';
@@ -137,10 +150,10 @@ function get_tables($html)
 function get_done_html($html)
 {
     $yesterday = date("d-m-Y");
-    $img[] = '<img class="aligncenter size-full wp-image-7421" src="https://www.arotrade.com/wp-content/uploads/2018/12/USDJPY-' . $yesterday . '.png" alt="USDJPY-' . $yesterday . '" width="1640" height="867" />​';
-    $img[] = '<img class="aligncenter size-full wp-image-7422" src="https://www.arotrade.com/wp-content/uploads/2018/12/EURUSD-' . $yesterday . '.png" alt="EURUSD-' . $yesterday . '" width="1654" height="866" />​';
-    $img[] = '<img class="aligncenter size-full wp-image-7423" src="https://www.arotrade.com/wp-content/uploads/2018/12/GBPUSD-' . $yesterday . '.png" alt="GBPUSD-' . $yesterday . '" width="1653" height="861" />​';
-    $img[] = '<img class="aligncenter size-full wp-image-7424" src="https://www.arotrade.com/wp-content/uploads/2018/12/Gold-' . $yesterday . '.png" alt="Gold-' . $yesterday . '" width="1654" height="861" />​';
+    $img[] = '<img class="aligncenter size-full wp-image-7421" src="https://www.arotrade.com/wp-content/uploads/2019/01/USDJPY-' . $yesterday . '.png" alt="USDJPY-' . $yesterday . '" width="1640" height="867" />​';
+    $img[] = '<img class="aligncenter size-full wp-image-7422" src="https://www.arotrade.com/wp-content/uploads/2019/01/EURUSD-' . $yesterday . '.png" alt="EURUSD-' . $yesterday . '" width="1654" height="866" />​';
+    $img[] = '<img class="aligncenter size-full wp-image-7423" src="https://www.arotrade.com/wp-content/uploads/2019/01/GBPUSD-' . $yesterday . '.png" alt="GBPUSD-' . $yesterday . '" width="1653" height="861" />​';
+    $img[] = '<img class="aligncenter size-full wp-image-7424" src="https://www.arotrade.com/wp-content/uploads/2019/01/Gold-' . $yesterday . '.png" alt="Gold-' . $yesterday . '" width="1654" height="861" />​';
 
     $button[] = '<div class="pad-space center-align">[ts_is_trader_guest]<a href="/open-account/" class="btn middle-news invert">Trade USDJPY</a>[/ts_is_trader_guest][ts_is_trader_with_deposit]<a href="//trade.arotrade.com/cfd-tab/33" class="btn middle-news invert">Trade USDJPY</a>[/ts_is_trader_with_deposit][ts_is_trader_without_deposit]<a href="//trade.arotrade.com/deposit-funds/" class="btn middle-news invert">Trade USDJPY</a>[/ts_is_trader_without_deposit]</div>';
     $button[] = '<div class="pad-space center-align">[ts_is_trader_guest]<a href="/open-account/" class="btn middle-news invert">Trade EURUSD</a>[/ts_is_trader_guest][ts_is_trader_with_deposit]<a href="//trade.arotrade.com/cfd-tab/17" class="btn middle-news invert">Trade EURUSD</a>[/ts_is_trader_with_deposit][ts_is_trader_without_deposit]<a href="//trade.arotrade.com/deposit-funds/" class="btn middle-news invert">Trade EURUSD</a>[/ts_is_trader_without_deposit]</div>';

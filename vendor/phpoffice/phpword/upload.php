@@ -192,6 +192,7 @@ function get_done_html($html)
     return $my_all_taxt;
 }
 
+
 function get_done_html_opteck($html)
 {
     $table_libtaly = get_tables($html);
